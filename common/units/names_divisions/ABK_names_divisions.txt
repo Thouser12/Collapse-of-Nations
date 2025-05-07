@@ -1,0 +1,193 @@
+# Division template historical names system. Abkhazia-specific names in the Abkhaz language using Latin characters.
+# This is a new method of naming the divisions based on the names-group assigned to its template.
+# If we run out of all historical names, the names will be assigned in the old way.
+
+ABK_INF_01 = {
+    name = "Infantry Division"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "infantry" }
+
+    fallback_name = "%d. Aiachachra Agup"  # Infantry Division in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Agup" }
+        2 = { "%d. Aiachachra Agup" }
+        3 = { "%d. Aiachachra Agup" }
+        4 = { "%d. Aiachachra Agup" }
+        5 = { "%d. Aiachachra Agup" }
+    }
+}
+
+ABK_INFB_01 = {
+    name = "Infantry Brigade"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "infantry" }
+
+    fallback_name = "%d. Aiachachra Brigada"  # Infantry Brigade in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Brigada" }
+        2 = { "%d. Aiachachra Brigada" }
+        3 = { "%d. Aiachachra Brigada" }
+        4 = { "%d. Aiachachra Brigada" }
+        5 = { "%d. Aiachachra Brigada" }
+    }
+}
+
+ABK_CAV_01 = {
+    name = "Cavalry Division"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "cavalry" }
+
+    fallback_name = "%d. Aiachachra Asha"  # Cavalry Division in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Asha" }
+        2 = { "%d. Aiachachra Asha" }
+        3 = { "%d. Aiachachra Asha" }
+        4 = { "%d. Aiachachra Asha" }
+        5 = { "%d. Aiachachra Asha" }
+    }
+}
+
+ABK_MOT_01 = {
+    name = "Motorized Division"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "motorized" }
+
+    fallback_name = "%d. Aiachachra Amakva"  # Motorized Division in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Amakva" }
+        2 = { "%d. Aiachachra Amakva" }
+        3 = { "%d. Aiachachra Amakva" }
+        4 = { "%d. Aiachachra Amakva" }
+        5 = { "%d. Aiachachra Amakva" }
+    }
+}
+
+ABK_MEC_01 = {
+    name = "Mechanized Division"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "mechanized" }
+
+    fallback_name = "%d. Aiachachra Amei"  # Mechanized Division in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Amei" }
+        2 = { "%d. Aiachachra Amei" }
+        3 = { "%d. Aiachachra Amei" }
+        4 = { "%d. Aiachachra Amei" }
+        5 = { "%d. Aiachachra Amei" }
+    }
+}
+
+ABK_PAR_01 = {
+    name = "Paratrooper Division"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "paratrooper" }
+
+    fallback_name = "%d. Aiachachra Adzaba"  # Paratrooper Division in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Adzaba" }
+        2 = { "%d. Aiachachra Adzaba" }
+        3 = { "%d. Aiachachra Adzaba" }
+        4 = { "%d. Aiachachra Adzaba" }
+        5 = { "%d. Aiachachra Adzaba" }
+    }
+}
+
+ABK_MAR_01 = {
+    name = "Marine Division"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "marine" }
+
+    fallback_name = "%d. Aiachachra Agu"  # Marine Division in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Agu" }
+        2 = { "%d. Aiachachra Agu" }
+        3 = { "%d. Aiachachra Agu" }
+        4 = { "%d. Aiachachra Agu" }
+        5 = { "%d. Aiachachra Agu" }
+    }
+}
+
+ABK_MNT_01 = {
+    name = "Mountain Division"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "mountaineers" }
+
+    fallback_name = "%d. Aiachachra Akha"  # Mountain Division in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Akha" }
+        2 = { "%d. Aiachachra Akha" }
+        3 = { "%d. Aiachachra Akha" }
+        4 = { "%d. Aiachachra Akha" }
+        5 = { "%d. Aiachachra Akha" }
+    }
+}
+
+ABK_GAR_01 = {
+    name = "Garrison Division"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "infantry" }
+
+    fallback_name = "%d. Aiachachra Apsha"  # Garrison Division in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Apsha" }
+        2 = { "%d. Aiachachra Apsha" }
+        3 = { "%d. Aiachachra Apsha" }
+        4 = { "%d. Aiachachra Apsha" }
+        5 = { "%d. Aiachachra Apsha" }
+    }
+}
+
+ABK_ARM_01 = {
+    name = "Armored Division"
+
+    for_countries = { ABK }
+
+    can_use = { always = yes }
+
+    division_types = { "light_armor" "medium_armor" "heavy_armor" "modern_armor" }
+
+    fallback_name = "%d. Aiachachra Aiapra"  # Armored Division in Abkhaz
+    ordered = {
+        1 = { "%d. Aiachachra Aiapra" }
+        2 = { "%d. Aiachachra Aiapra" }
+        3 = { "%d. Aiachachra Aiapra" }
+        4 = { "%d. Aiachachra Aiapra" }
+        5 = { "%d. Aiachachra Aiapra" }
+    }
+}

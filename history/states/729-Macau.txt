@@ -1,0 +1,30 @@
+state={
+	id=729
+	name="STATE_729"
+	manpower = 427100
+	
+	state_category = rural
+	
+	history={
+		owner = MCU
+		add_core_of = PRC
+		#add_claim_by = CHI
+		add_core_of = MCU
+		victory_points = {
+			4189 5
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			#arms_factory = 1
+			air_base = 1
+			4189 = {
+				naval_base = 3
+			}
+		}
+	}
+	
+	provinces={
+		4189 
+	}
+}

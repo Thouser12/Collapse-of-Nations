@@ -1,0 +1,34 @@
+
+state={
+	id=965
+	name="STATE_965"
+	resources={
+		oil=4.000
+		rubber = 4
+	}
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = MEZ
+		victory_points = {
+			9990 4 
+		}
+		victory_points = {
+			3958 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+
+	}
+
+	provinces={
+		3901 3958 3968 6972 9856 9990 10027 12066 12098 
+	}
+	manpower=2911000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

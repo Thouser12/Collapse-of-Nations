@@ -1,0 +1,27 @@
+
+state={
+	id=1196
+	name="STATE_1196"
+
+	history={
+		owner = SOM
+		add_core_of = SOM
+
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			15813 1 
+		}
+
+	}
+
+	provinces={
+		10921 12814 15813 15814 
+	}
+	manpower=528000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

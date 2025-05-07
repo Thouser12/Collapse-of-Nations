@@ -1,0 +1,27 @@
+
+state={
+	id=1025
+	name="STATE_1025"
+
+	history={
+		owner = HOL
+		add_core_of = HOL
+		victory_points = {
+			13284 2 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+
+		}
+
+	}
+
+	provinces={
+		13284 13287 13290 
+	}
+	manpower=328000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+}

@@ -1,0 +1,32 @@
+
+state={
+	id=950
+	name="STATE_950"
+	history={
+		owner = PRK
+		add_core_of = PRK
+		add_claim_by = KOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			6944 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			6944 12 
+		}
+
+	}
+
+
+	provinces={
+	6944	
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

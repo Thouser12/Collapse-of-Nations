@@ -1,0 +1,27 @@
+
+state={
+	id=810
+	name="STATE_810"
+
+	history={
+		owner = ISR
+		add_core_of = PAL
+		add_core_of = ISR
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			13249 7 
+		}
+
+	}
+
+	provinces={
+		1086 7107 13249 15529 
+	}
+	manpower=448000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

@@ -1,0 +1,21 @@
+state = {
+	id = 83
+	name = "STATE_83"
+	manpower = 462900
+	state_category = small_island
+
+
+	history = {
+		owner = ROM
+		add_core_of = ROM
+		add_core_of = TRS
+		victory_points = { 6682 3 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+
+	provinces = {
+		696 6682 6697 9640 
+	}
+}

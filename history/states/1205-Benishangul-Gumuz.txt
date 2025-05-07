@@ -1,0 +1,26 @@
+
+state={
+	id=1205
+	name="STATE_1205"
+
+	history={
+		owner = ETH
+		add_core_of = ETH
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			15871 1 
+		}
+
+	}
+
+	provinces={
+		4954 15871 15872 15873 15880 
+	}
+	manpower=705000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

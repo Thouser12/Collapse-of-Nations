@@ -1,0 +1,64 @@
+
+state={
+	id=592
+	name="STATE_592"
+	resources={
+		steel=20.000
+		oil=5.000
+		rubber=20.000
+	}
+
+	history={
+		owner = PRC
+		#add_claim_by = CHI
+		add_core_of = PRC
+		add_core_of = GXC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 8
+			arms_factory = 2
+			dockyard = 3
+			air_base = 7
+			1047 = {
+				naval_base = 6
+
+			}
+			7108 = {
+				naval_base = 8
+
+			}
+
+		}
+		2016.1.1 = {
+			buildings = {
+				industrial_complex = 4
+
+			}
+
+		}
+		victory_points = {
+			1047 110#70 
+		}
+		victory_points = {
+			7108 80#60 
+		}
+		victory_points = {
+			16393 7#50 
+		}
+		victory_points = {
+			16372 7#50  
+		}
+		victory_points = {
+			12043 35#30 
+		}
+
+	}
+
+	provinces={
+		1047 7108 12043 16372 16393 
+	}
+	manpower=32322000
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+	local_supplies=0.000
+}

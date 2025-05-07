@@ -1,0 +1,16 @@
+version="DEV"
+tags={
+	"Alternative History"
+	"Events"
+	"Map"
+	"National Focuses"
+	"Graphics"
+}
+replace_path="history/states"
+replace_path="map/"
+replace_path="map/strategicregions"
+replace_path="localisation/english"
+replace_path="common/countries"
+replace_path="common/country_tags"
+name="Collapse of Natios"
+supported_version="1.16.4"

@@ -1,0 +1,58 @@
+
+state={
+	id=62
+	name="STATE_62"
+	resources={
+		steel=25.000
+	}
+
+	history={
+		owner = PRC
+		add_core_of = PRC
+		#add_claim_by = CHI
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 5
+			arms_factory = 1
+
+		}
+		victory_points = {
+			11913 70 
+		}
+		victory_points = {
+			10034 70#60 
+		}
+		victory_points = {
+			16433 1 
+		}
+		victory_points = {
+			11982 8#10
+		}
+		victory_points = {
+			996 6#8
+		}
+		victory_points = {
+			13142 14#30
+		}
+		victory_points = {
+			16616 60#40
+		}
+		victory_points = {
+			12052 8#12
+		}
+		victory_points = {
+			16614 12#19
+		}
+		victory_points = {
+			10076 9#15
+		}
+	}
+
+	provinces={
+		996 10034 10076 11913 11982 12052 13142 16433 16613 16614 16616 
+	}
+	manpower=24624000
+	buildings_max_level_factor=1.000
+	state_category=megalopolis
+	local_supplies=0.000
+}

@@ -13,9 +13,9 @@ In an era of global uncertainty, alliances shift, new powers rise, and former em
 
 ## 🧠 Features
 
-- ⚔️ Overhauled state layout and map changes for immersive empire-building.
-- 📜 New deep lore for every region in historical and unhistorical depth.
-- 🏛 Country-specific division names and military structure (WIP).
+- ⚔️ Overhauled state layout and map changes for accurate modern day borders.
+- 🏛 Country-specific division names and military structure.
+- 📜 New deep lore for every region in historical and unhistorical depth (WIP).
 
 ## 🗺️ Structure
 

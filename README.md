@@ -7,7 +7,7 @@
 In an era of global uncertainty, alliances shift, new powers rise, and former empires can re-emerge from the ashes. **Collapse of Nations** aims to make the game more dynamic by:
 
 - Redefining borders and adding historically plausible irredentist claims.
-- Enriching the **map** with new states and provinces to allow more satisfying historical and alt-historical outcomes.
+- Enriching the **world** with new regional conflicts to allow more flavourful historical and alt-historical outcomes.
 - Adding **unique national focuses, decisions**, and **events** for ALL nations.
 - Expanding **AI behavior** to better reflect ideological alignments and (un)realistic geopolitical goals.
 
